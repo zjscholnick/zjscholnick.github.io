@@ -1151,7 +1151,7 @@ figure.dotted-bg {
 #about-section {
   margin-top: 7rem; }
   #about-section .container {
-    background: #0389ff;
+    background: 	#E6E6FA;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 50px;
@@ -1669,3 +1669,17 @@ figure.dotted-bg {
       .site-footer .social li a:hover {
         background: #36a1ff;
         color: #ffffff; }
+
+.namecard {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin: 5rem 0;
+}
+.namecard h3 {
+  margin-bottom: 10px;
+}
+.namecard p {
+  margin: 5px 0;
+}
